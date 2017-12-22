@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task7\task7\source.cpp(15): warning C4091: typedef : пропускается слева от "Queue", когда ни одна переменная не объявлена
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task7\task7\source.cpp(309): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task7\task7\source.cpp(230): warning C4101: seed: неиспользованная локальная переменная
+  Task7.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\tasks\Task7\Debug\Task7.exe
+  Task7.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\tasks\Task7\Debug\Task7.pdb (Partial PDB)
